@@ -7,5 +7,6 @@ public class TestStream {
 		System.out.println("and then ... modifyed");
 		
 		//这是跳过暂存区域的版本。
+		//gui
 	}
 }
